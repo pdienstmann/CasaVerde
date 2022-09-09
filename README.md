@@ -1,5 +1,9 @@
 [Link do projeto no figma](https://www.figma.com/file/OLI9pBJtUx71gdPPlYu9qZ/Styleguides)
 
+No curso, fizemos a parte mobile do projeto sobre uma loja de plantas.
+
+Pretendo fazer, futuramente, a parte desktop como complemento.
+
 
 <h2>Objetivos do projeto:
 <h4>
